@@ -1,3 +1,4 @@
+alias ss='ruby script/server'
 alias gd="git diff|mate"
 alias ss="script/server"
 alias gs="git status"
