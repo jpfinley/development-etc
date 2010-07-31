@@ -1,5 +1,15 @@
 [user]
-	name = John Finley
-	email = jpfinley@gmail.com
+  name = John Finley
+  email = jpfinley@gmail.com
 [color]
-	ui = auto
+  diff = auto
+  status = auto
+  branch = auto
+  interactive = auto
+  ui = true
+  pager = true
+[apply]
+  whitespace = fix
+[core]
+  excludesfile = ~/.gitignore
+  editor = mate
