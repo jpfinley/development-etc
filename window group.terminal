@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>WindowList</key>
+	<array>
+		<dict>
+			<key>Origin</key>
+			<string>{1, 878}</string>
+			<key>ShowsTabBar</key>
+			<false/>
+			<key>Window Settings</key>
+			<array>
+				<dict>
+					<key>Tab Column Count</key>
+					<integer>145</integer>
+					<key>Tab Row Count</key>
+					<integer>24</integer>
+					<key>Tab Settings</key>
+					<dict>
+						<key>Font</key>
+						<data>
+						YnBsaXN0MDDUAQIDBAUGGBlYJHZl
+						cnNpb25YJG9iamVjdHNZJGFyY2hp
+						dmVyVCR0b3ASAAGGoKQHCBESVSRu
+						dWxs1AkKCwwNDg8QViRjbGFzc1ZO
+						U05hbWVWTlNTaXplWE5TZkZsYWdz
+						gAOAAiNAJgAAAAAAABAQVk1vbmFj
+						b9ITFBUWWiRjbGFzc25hbWVYJGNs
+						YXNzZXNWTlNGb250ohUXWE5TT2Jq
+						ZWN0XxAPTlNLZXllZEFyY2hpdmVy
+						0RobVHJvb3SAAQgRGiMtMjc8QktS
+						WWBpa212eH+Ej5ifoqu9wMUAAAAA
+						AAABAQAAAAAAAAAcAAAAAAAAAAAA
+						AAAAAAAAxw==
+						</data>
+						<key>FontAntialias</key>
+						<true/>
+						<key>ProfileCurrentVersion</key>
+						<real>2.0099999999999998</real>
+						<key>UseBrightBold</key>
+						<false/>
+						<key>name</key>
+						<string>Basic</string>
+						<key>type</key>
+						<string>Window Settings</string>
+					</dict>
+					<key>Tab Settings Name</key>
+					<string>Basic</string>
+					<key>TabSelected</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>Tab Column Count</key>
+					<integer>145</integer>
+					<key>Tab Row Count</key>
+					<integer>24</integer>
+					<key>Tab Settings</key>
+					<dict>
+						<key>BackgroundColor</key>
+						<data>
+						YnBsaXN0MDDUAQIDBAUGFRZYJHZl
+						cnNpb25YJG9iamVjdHNZJGFyY2hp
+						dmVyVCR0b3ASAAGGoKMHCA9VJG51
+						bGzTCQoLDA0OViRjbGFzc1xOU0Nv
+						bG9yU3BhY2VVTlNSR0KAAhABTxAh
+						MC4xMzIwNTYyNCAwLjMwODQ3ODU2
+						IDAuNzM5MTMwNDQA0hAREhNaJGNs
+						YXNzbmFtZVgkY2xhc3Nlc1dOU0Nv
+						bG9yohIUWE5TT2JqZWN0XxAPTlNL
+						ZXllZEFyY2hpdmVy0RcYVHJvb3SA
+						AQgRGiMtMjc7QUhPXGJkZoqPmqOr
+						rrfJzNEAAAAAAAABAQAAAAAAAAAZ
+						AAAAAAAAAAAAAAAAAAAA0w==
+						</data>
+						<key>Font</key>
+						<data>
+						YnBsaXN0MDDUAQIDBAUGGBlYJHZl
+						cnNpb25YJG9iamVjdHNZJGFyY2hp
+						dmVyVCR0b3ASAAGGoKQHCBESVSRu
+						dWxs1AkKCwwNDg8QViRjbGFzc1ZO
+						U05hbWVWTlNTaXplWE5TZkZsYWdz
+						gAOAAiNAJgAAAAAAABAQVk1vbmFj
+						b9ITFBUWWiRjbGFzc25hbWVYJGNs
+						YXNzZXNWTlNGb250ohUXWE5TT2Jq
+						ZWN0XxAPTlNLZXllZEFyY2hpdmVy
+						0RobVHJvb3SAAQgRGiMtMjc8QktS
+						WWBpa212eH+Ej5ifoqu9wMUAAAAA
+						AAABAQAAAAAAAAAcAAAAAAAAAAAA
+						AAAAAAAAxw==
+						</data>
+						<key>FontAntialias</key>
+						<false/>
+						<key>ProfileCurrentVersion</key>
+						<real>2.0099999999999998</real>
+						<key>SelectionColor</key>
+						<data>
+						YnBsaXN0MDDUAQIDBAUGFRZYJHZl
+						cnNpb25YJG9iamVjdHNZJGFyY2hp
+						dmVyVCR0b3ASAAGGoKMHCA9VJG51
+						bGzTCQoLDA0OViRjbGFzc1xOU0Nv
+						bG9yU3BhY2VVTlNSR0KAAhABTxAQ
+						MCAwLjUwMTk2MDgxNCAxANIQERIT
+						WiRjbGFzc25hbWVYJGNsYXNzZXNX
+						TlNDb2xvcqISFFhOU09iamVjdF8Q
+						D05TS2V5ZWRBcmNoaXZlctEXGFRy
+						b290gAEIERojLTI3O0FIT1xiZGZ5
+						fomSmp2muLvAAAAAAAAAAQEAAAAA
+						AAAAGQAAAAAAAAAAAAAAAAAAAMI=
+						</data>
+						<key>TextBoldColor</key>
+						<data>
+						YnBsaXN0MDDUAQIDBAUGFRZYJHZl
+						cnNpb25YJG9iamVjdHNZJGFyY2hp
+						dmVyVCR0b3ASAAGGoKMHCA9VJG51
+						bGzTCQoLDA0OViRjbGFzc1xOU0Nv
+						bG9yU3BhY2VVTlNSR0KAAhABTxAb
+						MC44MDAwMDAwMTE5IDEgMC40MDAw
+						MDAwMDYA0hAREhNaJGNsYXNzbmFt
+						ZVgkY2xhc3Nlc1dOU0NvbG9yohIU
+						WE5TT2JqZWN0XxAPTlNLZXllZEFy
+						Y2hpdmVy0RcYVHJvb3SAAQgRGiMt
+						Mjc7QUhPXGJkZoSJlJ2lqLHDxssA
+						AAAAAAABAQAAAAAAAAAZAAAAAAAA
+						AAAAAAAAAAAAzQ==
+						</data>
+						<key>TextColor</key>
+						<data>
+						YnBsaXN0MDDUAQIDBAUGFRZYJHZl
+						cnNpb25YJG9iamVjdHNZJGFyY2hp
+						dmVyVCR0b3ASAAGGoKMHCA9VJG51
+						bGzTCQoLDA0OViRjbGFzc1xOU0Nv
+						bG9yU3BhY2VXTlNXaGl0ZYACEANC
+						MQDSEBESE1okY2xhc3NuYW1lWCRj
+						bGFzc2VzV05TQ29sb3KiEhRYTlNP
+						YmplY3RfEA9OU0tleWVkQXJjaGl2
+						ZXLRFxhUcm9vdIABCBEaIy0yNztB
+						SE9cZGZoa3B7hIyPmKqtsgAAAAAA
+						AAEBAAAAAAAAABkAAAAAAAAAAAAA
+						AAAAAAC0
+						</data>
+						<key>name</key>
+						<string>Ocean</string>
+						<key>type</key>
+						<string>Window Settings</string>
+					</dict>
+					<key>Tab Settings Name</key>
+					<string>Ocean</string>
+					<key>TabSelected</key>
+					<false/>
+				</dict>
+			</array>
+			<key>WindowNumber</key>
+			<integer>4</integer>
+		</dict>
+	</array>
+	<key>name</key>
+	<string>John Finley’s window group</string>
+	<key>type</key>
+	<string>Window Group</string>
+</dict>
+</plist>
